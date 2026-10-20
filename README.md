@@ -19,3 +19,8 @@ La aplicación permite a los usuarios realizar un análisis exploratorio visual 
 - **Plotly Express / Graph Objects**: Creación de gráficos interactivos.
 - **Streamlit**: Framework para el desarrollo de la interfaz de la aplicación web.
 - **Render**: Plataforma en la nube para el hosting y despliegue de la aplicación.
+
+## Enlace a la Aplicación Desplegada
+Puedes acceder y probar la aplicación web en vivo en el siguiente enlace:
+
+👉 [Ver Aplicación Web en Render](https://proyecto-sprint-7-9slu.onrender.com/)**
