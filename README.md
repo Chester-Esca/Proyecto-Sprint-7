@@ -23,4 +23,4 @@ La aplicación permite a los usuarios realizar un análisis exploratorio visual 
 ## Enlace a la Aplicación Desplegada
 Puedes acceder y probar la aplicación web en vivo en el siguiente enlace:
 
-👉 [Ver Aplicación Web en Render](https://proyecto-sprint-7-9slu.onrender.com/)**
+👉 [Ver Aplicación Web en Render] **(https://proyecto-sprint-7-9slu.onrender.com/)**
